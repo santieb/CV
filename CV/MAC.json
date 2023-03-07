@@ -101,7 +101,11 @@
         "startDate": "2022-10-01",
         "institution": {
           "name": "HackerRank",
-          "URL": "https://www.hackerrank.com/certificates/2e590672b09c"
+          "URL": "https://www.hackerrank.com/certificates/2e590672b09c",
+          "image": {
+            "alt": "800px-HackerRank_Icon-1000px.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/07/5b1a8ea2-1de9-460f-a942-45b1db230964_800px-hackerrank_ico.png"
+          }
         },
         "linkedCompetences": [
           {
