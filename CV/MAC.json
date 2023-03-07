@@ -157,8 +157,18 @@
         "startDate": "2022-07-01",
         "institution": {
           "name": "Udemy",
-          "URL": "https://udemy-certificate.s3.amazonaws.com/image/UC-454028b9-af4d-4699-b92c-44da53e878ac.jpg"
-        }
+          "URL": "https://udemy-certificate.s3.amazonaws.com/image/UC-454028b9-af4d-4699-b92c-44da53e878ac.jpg",
+          "image": {
+            "alt": "descarga.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/07/0456b271-6f9b-4eca-8c07-cc594b97c74a_descarga.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "certification",
