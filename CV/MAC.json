@@ -1,0 +1,188 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Santiago ",
+      "surnames": "Barreto",
+      "title": "Web Developer",
+      "description": "Soy un desarrollador web apasionado por la tecnología. Siempre abierto a aprender y a enriquecer mi perfil de desarrollador.\n\nActualmente estoy buscando una primer experiencia laboral en el área de IT como developer para seguir potenciándome.",
+      "location": {
+        "country": "Argentina",
+        "region": "Tierra del Fuego",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/santieb"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/santiagobarreto-/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "JavaScript (Basic) Certificate",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "HackerRank",
+          "description": "",
+          "URL": "https://www.hackerrank.com/certificates/2e590672b09c"
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "JavaScript Algorithms and Data Structures",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "freeCodeCamp",
+          "description": "",
+          "URL": "https://freecodecamp.org/certification/santiagobarreto/javascript-algorithms-and-data-structures"
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Aceleración de Alkemy - Nodejs",
+        "startDate": "2022-08-01",
+        "institution": {
+          "name": "Alkemy",
+          "description": "",
+          "URL": "https://assets.alkemy.org/certificates/google-oauth2%7C107289941056278127431/ACCELERATION_CERTIFICATE/9f4dfdb5-4a6f-490a-bcaf-035bc6365e05.pdf"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "Sequelize",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": " React - La Guía Completa: Hooks Context Redux MERN +15 Apps",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "",
+          "URL": "https://udemy-certificate.s3.amazonaws.com/image/UC-454028b9-af4d-4699-b92c-44da53e878ac.jpg"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Node.js - Express - MongoDB",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "",
+          "URL": "https://udemy-certificate.s3.amazonaws.com/image/UC-23036463-0d16-4e43-8797-9380f2ca2f5a.jpg"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/santiagobarreto-/"
+        }
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
