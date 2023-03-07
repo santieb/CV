@@ -116,8 +116,12 @@
         "name": "JavaScript Algorithms and Data Structures",
         "startDate": "2022-09-01",
         "institution": {
-          "name": "freeCodeCamp",
-          "URL": "https://freecodecamp.org/certification/santiagobarreto/javascript-algorithms-and-data-structures"
+          "name": "FreeCodeCamp",
+          "URL": "https://freecodecamp.org/certification/santiagobarreto/javascript-algorithms-and-data-structures",
+          "image": {
+            "alt": "fcc_primary_small.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/07/f66ba74e-2b1c-4713-885f-e47b41e7c64b_fcc_primary_small.jpg"
+          }
         },
         "linkedCompetences": [
           {
