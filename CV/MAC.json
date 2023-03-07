@@ -133,7 +133,11 @@
         "startDate": "2022-08-01",
         "institution": {
           "name": "Alkemy",
-          "URL": "https://assets.alkemy.org/certificates/google-oauth2%7C107289941056278127431/ACCELERATION_CERTIFICATE/9f4dfdb5-4a6f-490a-bcaf-035bc6365e05.pdf"
+          "URL": "https://assets.alkemy.org/certificates/google-oauth2%7C107289941056278127431/ACCELERATION_CERTIFICATE/9f4dfdb5-4a6f-490a-bcaf-035bc6365e05.pdf",
+          "image": {
+            "alt": "descarga.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/07/fc55b8f6-2a49-4da6-bd00-3bf88c5f6830_descarga.jpeg"
+          }
         },
         "linkedCompetences": [
           {
