@@ -167,7 +167,11 @@
         "startDate": "2022-04-01",
         "institution": {
           "name": "Udemy",
-          "URL": "https://udemy-certificate.s3.amazonaws.com/image/UC-23036463-0d16-4e43-8797-9380f2ca2f5a.jpg"
+          "URL": "https://udemy-certificate.s3.amazonaws.com/image/UC-23036463-0d16-4e43-8797-9380f2ca2f5a.jpg",
+          "image": {
+            "alt": "descarga.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/07/a4a33e0c-f29b-4265-aee2-a0f4a8516a1d_descarga.png"
+          }
         },
         "linkedCompetences": [
           {
