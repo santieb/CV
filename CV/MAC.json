@@ -77,6 +77,26 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Aceleración de Alkemy",
+        "startDate": "2022-12-01",
+        "institution": {
+          "name": "Alkemy",
+          "URL": "https://drive.google.com/file/d/12wdP23LbJuszEurpJuEmNIPVRbX7BH1G/view",
+          "image": {
+            "alt": "descarga.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/07/aa14af52-8644-4603-8934-d1b599a04762_descarga.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "JavaScript (Basic) Certificate",
         "startDate": "2022-10-01",
         "institution": {
